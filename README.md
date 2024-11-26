@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web marketing
 - 💞️ I’m looking for a mentor to help me progress 
 - 📫 How to reach me : elislamberti@gmail.com
-- ⚡ Fun fact: the <s> in my first name is not pronounced, should call me Eli
+- ⚡ Fun fact: the S in my first name is not pronounced, should call me Eli
 
 
 <!---
